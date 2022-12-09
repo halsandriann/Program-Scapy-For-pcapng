@@ -8,3 +8,12 @@
   	2C : Protokol dan transmisi mana sajakah yang paling sering mengalami RESET pada Flag komunikasi TCP nya?
   	2D : Temukan 3 pola lain yang bisa Anda temukan yang berpotensi menjadi gangguan kualitas jaringan komputer tersebut!
  
+﻿# Installation guide for library
+ 
+ 	Install newest version Python
+	Upgrade PIP  -> pip install --upgrade pip
+	Instal scapy -> sudo pip install scapy
+	
+	Header in first line using "from scapy.all import *", untuk import semua fungsi dan class
+	
+	Enjoy Coding.......
